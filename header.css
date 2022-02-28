@@ -1,0 +1,148 @@
+ /*.header {
+    background-color: rgb(41, 4, 4);
+    display:flex;
+    border-bottom:orangered solid;
+    text-decoration: none;
+}
+.logo a{
+    text-decoration: none;
+}
+.button{
+    background-color:red;
+    color:white;
+    font-size: 15px;
+    border-radius: 20%; width: 20px;
+    
+}
+.button:hover{
+    color:white;
+}
+*/
+
+
+
+.header{
+    background-color:rgb(109, 6, 6);  
+     border-bottom: rgb(85, 46, 32)  solid;
+  }
+  .header{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 100px;
+  
+    
+  }
+  .logo a{
+    text-decoration: none;
+}
+.button:hover{
+    color:white;
+}
+
+
+
+  ul{
+    display:flex;
+    list-style: none;
+   font-size: 20px;
+  }
+  button{
+    border-radius: 30%;
+    background-color:red;
+  }
+  
+  
+  
+  .header li{
+    
+    list-style: none;
+    padding-right: 20px;
+   
+  
+  }
+.nav li {
+    display: inline;
+    font-size: 25px;
+    padding:10px;
+}
+ .nav {
+     padding-left: 8%;
+     
+ }
+ .nav a  {
+     text-decoration: none;
+    
+     color:grey;
+    
+ }
+.nav h1{
+   font-size: 30px; 
+}
+.nav a:hover{
+    color:white;
+    
+}
+
+    .blue{
+        background-color: black;
+        color:white;
+        font-size: 25px;
+        padding-top: 0% 50%;
+    }
+      .dan li{  
+         display: flex;
+         list-style:none;
+         display:inline;
+         text-align:end;
+      }
+      .dan{
+        
+      }
+      
+      
+     .dan a:hover{
+           color:white;
+
+     }
+
+       .dan a{
+           padding-left:5%;
+           text-decoration: none;
+           color:grey;
+       }
+
+.dan ul{
+    display: inline;
+
+}
+body{
+    padding:0;
+    margin:0;
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
